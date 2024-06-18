@@ -2,8 +2,6 @@
 Its a capstone game is designed to provide exciting and challenging adventure.
 
 
-# Capstone - Game Project
-
 Welcome to the Capstone Game Project repository! This project showcases a simple, yet engaging game developed using Python and the Turtle graphics library. The game is designed to demonstrate fundamental programming concepts and game development techniques.
 
 ## Project Overview
